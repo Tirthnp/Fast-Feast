@@ -1,0 +1,179 @@
+Level 1-2 level3.txt
+Tile Ground 32 32
+Tile Ground 96 32
+Tile Ground 160 32
+Tile Ground 224 32
+Tile Ground 288 32
+Tile Ground 352 32
+Tile Ground 416 32
+Tile Ground 480 32
+Tile Ground 544 32
+Tile Ground 608 32
+Tile Ground 672 32
+Tile Ground 736 32
+Tile Ground 800 32
+Tile Ground 864 32
+Tile Ground 928 32
+Tile Ground 992 32
+Tile Brick 608 288
+Tile Brick 608 96
+Tile Brick 608 160
+Tile Brick 608 224
+Tile Block 608 352
+Tile Ground 992 96
+Tile Ground 928 96
+Tile Ground 992 160
+Tile Ground 1056 96
+Tile Ground 1056 96
+Tile Ground 1056 32
+Tile Ground 1056 160
+Tile Block 1120 160
+Tile Block 1184 160
+Tile Block 1248 160
+Tile Block 544 352
+Tile Block 544 352
+Tile Brick 544 288
+Tile Question 544 224
+Tile Question 544 160
+Tile Brick 544 96
+Tile Block 1692 160
+Tile Block 1628 160
+Tile Ground 1756 160
+Tile Ground 1756 96
+Tile Ground 1756 32
+Tile Brick 1628 352
+Tile Brick 1628 224
+Tile Question 1628 288
+Tile Brick 1628 416
+Tile Block 1628 480
+Tile Ground 1821 160
+Tile Ground 1821 96
+Tile Ground 1821 32
+Tile Ground 1885 32
+Tile Ground 1949 32
+Tile Ground 2013 32
+Tile Ground 2077 32
+Tile Ground 2141 32
+Tile Block 2077 544
+Tile Block 2333 544
+Tile Question 1885 96
+Tile Question 1885 160
+Tile Ground 2206 32
+Tile Ground 2270 32
+Tile Ground 2334 32
+Tile Ground 2398 32
+Tile Ground 2462 32
+Tile Ground 2526 32
+Tile Ground 2590 32
+Tile Question 2526 96
+Tile Question 2526 160
+Tile Ground 2590 96
+Tile Ground 2590 160
+Tile Block 2206 96
+Tile Block 2206 96
+Tile Brick 2655 160
+Tile Block 2591 416
+Tile Block 2591 480
+Tile Block 2591 544
+Tile Block 2591 608
+Tile Block 2591 608
+Tile Block 2591 672
+Tile Block 2847 416
+Tile Block 2847 416
+Tile Block 2847 416
+Tile Block 2847 544
+Tile Block 2847 480
+Tile Block 2847 608
+Tile Block 2847 672
+Tile Block 2655 480
+Tile Block 2719 480
+Tile Block 2783 480
+Tile Question 2655 416
+Tile Brick 2719 160
+Tile Question 2719 416
+Tile Ground 2911 160
+Tile Ground 2911 96
+Tile Question 2783 416
+Tile Ground 2911 32
+Tile Brick 2783 160
+Tile Brick 2591 224
+Tile Brick 2591 288
+Tile Brick 2591 352
+Tile Brick 2847 352
+Tile Brick 2847 288
+Tile Brick 2847 224
+Tile Ground 2847 160
+Tile Ground 2847 96
+Tile Ground 2847 32
+Tile Ground 3143 160
+Tile Ground 3143 96
+Tile Ground 3143 32
+Tile Ground 3207 96
+Tile Ground 3271 32
+Tile Ground 3207 32
+Tile Brick 3079 160
+Tile Ground 3335 32
+Tile Ground 3335 32
+Tile Ground 3399 32
+Tile Ground 3527 32
+Tile Ground 3527 32
+Tile Ground 3463 32
+Tile Ground 3399 288
+Tile Warp 4000 352
+Tile Ground 3464 288
+Tile Ground 3528 288
+Tile Ground 3592 288
+Tile Ground 3656 288
+Tile Ground 3720 288
+Tile Ground 3720 224
+Tile Ground 3720 160
+Tile Ground 3720 96
+Tile Ground 3720 32
+Tile Ground 3656 32
+Tile Ground 3592 32
+Tile Block 3784 288
+Tile Block 3784 288
+Tile Block 3784 288
+Tile Question 3656 224
+Tile Question 3656 160
+Tile Question 3656 96
+Tile Block 3144 608
+Tile Block 3080 608
+Tile Block 3208 608
+Tile Block 3208 672
+Tile Block 3208 672
+Tile Block 3144 672
+Tile Block 3080 672
+Tile Block 3144 672
+Dec BushBig 3622 384
+Dec BushBig 3622 384
+Tile Brick 3400 224
+Tile Brick 3464 224
+Tile Brick 3464 96
+Tile Brick 3400 96
+Tile Brick 3464 160
+Tile Brick 3400 160
+Dec CloudSmall 2205 544
+Dec Bush 577 448
+Dec BushBig 312 128
+Dec CloudSmall 96 480
+Dec CloudSmall 96 480
+Dec Bush 702 128
+
+NPC Nightmare  0 32 3
+NPC Nightmare  0 96 3
+NPC Nightmare  0 160 3
+NPC Nightmare  0 224 3
+NPC Nightmare  0 288 3
+NPC Nightmare  0 352 3
+NPC Nightmare  0 416 3
+NPC Nightmare  0 480 3
+NPC Nightmare  0 544 3
+NPC Nightmare  0 608 3
+NPC Nightmare  0 672 3
+NPC Nightmare  0 736 3
+NPC SodaEnemy  3000 500 5
+NPC SodaEnemy  2200 300 3
+NPC SodaEnemy  1000 400 2
+Tile Platform  1500 160
+Player 128 400 60 100 5 20 20 -0.75 Fist

@@ -1,0 +1,16 @@
+Level End level2.txt
+Tile Ground 32 32
+Tile Ground 96 32
+Tile Ground 160 32
+Tile Ground 224 32
+Tile PowThanks 641 433
+Tile Ground 1248 32
+Tile Ground 1184 32
+Tile Ground 1120 32
+Tile Ground 1056 32
+Tile BushBig 1177 129
+Tile Boss_Idle 1145 259
+Tile CakeEnemy 1265 100
+Tile SodaEnemy 1204 428
+Tile ChipsEnemy 1051 97
+Player 128 400 60 100 5 20 20 -0.75 Fist

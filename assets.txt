@@ -1,0 +1,85 @@
+Texture   TexStand   images/megaman/stand128.png              
+Texture   TexRun     images/megaman/run128.png                
+Texture   TexAir     images/megaman/air128.png 
+Texture   TexDead     images/megaman/dead128.png               
+Texture   TexBuster  images/megaman/buster.png
+Texture   TexFist    images/megaman/fist.png
+Texture   TexFistSoda    images/megaman/fistSoda.png
+Texture   TexFistCake   images/megaman/fistCake.png
+Texture   TexFistChips   images/megaman/fistChips.png
+Texture   TexExplode images/misc/explosion128.png
+Texture   TexCoin    images/misc/coinspin.png
+Texture   TexBrick   images/mario/brick.png
+Texture   TexQ       images/mario/qfade.png
+Texture   TexQ2      images/mario/question2.png
+Texture   TexPipeS   images/mario/pipesmall.png
+Texture   TexPipeT   images/mario/pipetall.png
+Texture   TexCloudB  images/mario/cloudbig.png
+Texture   TexCloudS  images/mario/cloudsmall.png
+Texture   TexBush    images/mario/bush.png
+Texture   TexBushBig images/mario/bushbig.png
+Texture   TexGround  images/mario/ground.png
+Texture   TexBlock   images/mario/block.png
+Texture   TexPole    images/mario/flagpole.png
+Texture   TexPoleTop images/mario/flagtop.png
+Texture   TexFlag    images/mario/flag.png
+Texture   TexDemonCloud    images/mario/DemonCloud.png
+Texture   TexBuzzSaw images/misc/BuzzSaw.png
+Texture   TexInventoryBox images/misc/InventoryBox.png
+Texture   TexSodaEnemy images/misc/SodaEnemy.png
+Texture   TexCakeEnemy images/misc/CakeEnemy.png
+Texture   TexChipsEnemy images/misc/ChipsEnemy.png
+Texture   TexWarp images/misc/Warp.png
+Texture   TexPowSoda    images/misc/SodaIcon.png
+Texture   TexPowCake   images/misc/CakeIcon.png
+Texture   TexPowChips   images/misc/ChipsIcon.png
+Texture   TexPlatform images/misc/Platform.png
+Texture   TexBoss_Idle images/misc/Boss_Idle.png
+Texture   TexBoss_Attack images/misc/Boss_Attack.png
+Texture   TexSearchBullet images/misc/SearchBullet.png
+Texture   TexStarBullet images/misc/StarBullet.png
+Texture   TexThanks images/misc/Thanks.png
+Animation Stand      TexStand    1    0   
+Animation Run        TexRun      4   7    
+Animation Air        TexAir      1    0 
+Animation Dead        TexDead     1    0 
+Animation Buster     TexBuster   1    0
+Animation Fist       TexFist   	 4    10 
+Animation FistSoda   TexFistSoda 4    10
+Animation FistChips   TexFistChips 4    10
+Animation FistCake   TexFistCake 4    4    
+Animation Explosion  TexExplode  5    3  
+Animation Coin       TexCoin     6    5 
+Animation Nightmare  TexBuzzSaw  2    6
+Animation Question   TexQ        2   10  
+Animation SodaEnemy  TexSodaEnemy        1   0
+Animation CakeEnemy  TexCakeEnemy        1   0
+Animation ChipsEnemy  TexChipsEnemy        4   8 
+Animation Brick      TexBrick    1    0   
+Animation Question2  TexQ2       1    0   
+Animation PipeTall   TexPipeT    1    0   
+Animation PipeSmall  TexPipeS    1    0   
+Animation CloudBig   TexCloudB   1    0   
+Animation CloudSmall TexCloudS   1    0 
+Animation DemonCloud TexDemonCloud   1    0    
+Animation Bush       TexBush     1    0   
+Animation BushBig    TexBushBig  1    0   
+Animation Ground     TexGround   1    0   
+Animation Block      TexBlock    1    0   
+Animation Flag       TexFlag     1    0   
+Animation Pole       TexPole     1    0 
+Animation Warp       TexWarp     2    7  
+Animation PoleTop    TexPoleTop  1    0
+Animation PowSoda    TexPowSoda  1    0
+Animation PowThanks    TexThanks  1    0
+Animation PowCake    TexPowCake  1    0
+Animation PowChips    TexPowChips  1    0
+Animation Platform    TexPlatform  1    0
+Animation Boss_Idle    TexBoss_Idle  2    10
+Animation Boss_Attack   TexBoss_Attack  5    7
+Animation InventoryBox TexInventoryBox  1    0  
+Animation SearchBullet   TexSearchBullet  4    5 
+Animation StarBullet   TexStarBullet  2    3 
+Font      Arial      fonts/arial.ttf
+Font      Mario      fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
