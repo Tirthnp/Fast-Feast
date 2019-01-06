@@ -1,4 +1,4 @@
-# Fast-Feast
+## Fast-Feast
 A game made in C++
 
 Controls for Level’s
@@ -8,6 +8,7 @@ D : to go right
 U : to browse powerups
 Esc : to escape
 Space : to shoot bullets
+
 Controls for Menus
 W : up
 D : select
@@ -26,3 +27,8 @@ provide the player with a kind of fist attack. The powerups which are not yet ac
 in transparent icons in the inventory box.
 
 -> All the levels are defined in the external level.txt files which could be edited and made custom levels.
+
+![ss1](https://user-images.githubusercontent.com/19911354/50730547-41b21800-112a-11e9-9488-b5df1196ab30.PNG)
+![ss4](https://user-images.githubusercontent.com/19911354/50730546-41198180-112a-11e9-9ec6-8bb382971612.PNG)
+![ss2](https://user-images.githubusercontent.com/19911354/50730548-41b21800-112a-11e9-9b01-7acff81e8de6.PNG)
+![ss3](https://user-images.githubusercontent.com/19911354/50730549-41b21800-112a-11e9-84e5-09a85fb875dc.PNG)
